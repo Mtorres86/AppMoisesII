@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiApp</string>
+    <string name="lbl_bienvenido">Bienvenido</string>
+
+
+    <string name="txtsaludar">Saludar</string>
+    <string name="txt_nombre">Name</string>
+    <string name="btnsaludar">Saludar</string>
+    <string name="edt_hint_nombre">Ingrese Nombre </string>
+</resources>
